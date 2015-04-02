@@ -17,7 +17,10 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
-            //textBox1.Text="C:\tmp\testdata\";
+            //textBox1.Text="C:\tmp\testdata\";   
+            // commit
+
+
         }
 
 
